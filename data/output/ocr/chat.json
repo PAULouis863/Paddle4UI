@@ -1,0 +1,259 @@
+{
+    "img_shape": [
+        2340,
+        1080,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "3 Macau 17:12 @",
+            "column_min": 320,
+            "row_min": 63,
+            "column_max": 614,
+            "row_max": 97,
+            "width": 294,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "四G100",
+            "column_min": 725,
+            "row_min": 63,
+            "column_max": 1039,
+            "row_max": 97,
+            "width": 314,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "聊天",
+            "column_min": 477,
+            "row_min": 180,
+            "column_max": 602,
+            "row_max": 243,
+            "width": 125,
+            "height": 63
+        },
+        {
+            "id": 4,
+            "content": "9折",
+            "column_min": 48,
+            "row_min": 333,
+            "column_max": 139,
+            "row_max": 411,
+            "width": 91,
+            "height": 78
+        },
+        {
+            "id": 5,
+            "content": "8折",
+            "column_min": 190,
+            "row_min": 333,
+            "column_max": 284,
+            "row_max": 411,
+            "width": 94,
+            "height": 78
+        },
+        {
+            "id": 6,
+            "content": "5折",
+            "column_min": 330,
+            "row_min": 338,
+            "column_max": 421,
+            "row_max": 409,
+            "width": 91,
+            "height": 71
+        },
+        {
+            "id": 7,
+            "content": "送你三单折扣",
+            "column_min": 460,
+            "row_min": 351,
+            "column_max": 725,
+            "row_max": 399,
+            "width": 265,
+            "height": 48
+        },
+        {
+            "id": 8,
+            "content": "确认收下",
+            "column_min": 865,
+            "row_min": 353,
+            "column_max": 1031,
+            "row_max": 397,
+            "width": 166,
+            "height": 44
+        },
+        {
+            "id": 9,
+            "content": "还没有聊天消息哦",
+            "column_min": 349,
+            "row_min": 943,
+            "column_max": 730,
+            "row_max": 984,
+            "width": 381,
+            "height": 41
+        },
+        {
+            "id": 10,
+            "content": "与商家、官方客服的聊天会显示在这里",
+            "column_min": 190,
+            "row_min": 1031,
+            "column_max": 891,
+            "row_max": 1065,
+            "width": 701,
+            "height": 34
+        },
+        {
+            "id": 11,
+            "content": "联系官方客服",
+            "column_min": 414,
+            "row_min": 1140,
+            "column_max": 662,
+            "row_max": 1174,
+            "width": 248,
+            "height": 34
+        },
+        {
+            "id": 12,
+            "content": "全部商品",
+            "column_min": 486,
+            "row_min": 1377,
+            "column_max": 665,
+            "row_max": 1421,
+            "width": 179,
+            "height": 44
+        },
+        {
+            "id": 13,
+            "content": "0元试穿李宁驭师14代低",
+            "column_min": 28,
+            "row_min": 2032,
+            "column_max": 503,
+            "row_max": 2067,
+            "width": 475,
+            "height": 35
+        },
+        {
+            "id": 14,
+            "content": "O元试穿NIKE耐克男鞋运",
+            "column_min": 573,
+            "row_min": 2032,
+            "column_max": 1010,
+            "row_max": 2067,
+            "width": 437,
+            "height": 35
+        },
+        {
+            "id": 15,
+            "content": "盘先用后付关注立减5元",
+            "column_min": 26,
+            "row_min": 2096,
+            "column_max": 424,
+            "row_max": 2130,
+            "width": 398,
+            "height": 34
+        },
+        {
+            "id": 16,
+            "content": "658人鉴别店铺商品为真",
+            "column_min": 571,
+            "row_min": 2096,
+            "column_max": 952,
+            "row_max": 2130,
+            "width": 381,
+            "height": 34
+        },
+        {
+            "id": 17,
+            "content": "卷后￥789已拼42件",
+            "column_min": 19,
+            "row_min": 2154,
+            "column_max": 388,
+            "row_max": 2198,
+            "width": 369,
+            "height": 44
+        },
+        {
+            "id": 18,
+            "content": "卷后￥566店铺好评3万条",
+            "column_min": 564,
+            "row_min": 2154,
+            "column_max": 1024,
+            "row_max": 2198,
+            "width": 460,
+            "height": 44
+        },
+        {
+            "id": 19,
+            "content": "1",
+            "column_min": 339,
+            "row_min": 2213,
+            "column_max": 376,
+            "row_max": 2247,
+            "width": 37,
+            "height": 34
+        },
+        {
+            "id": 20,
+            "content": "过年",
+            "column_min": 467,
+            "row_min": 2213,
+            "column_max": 612,
+            "row_max": 2276,
+            "width": 145,
+            "height": 63
+        },
+        {
+            "id": 21,
+            "content": "多多视频",
+            "column_min": 260,
+            "row_min": 2288,
+            "column_max": 390,
+            "row_max": 2330,
+            "width": 130,
+            "height": 42
+        },
+        {
+            "id": 22,
+            "content": "领券会场",
+            "column_min": 477,
+            "row_min": 2288,
+            "column_max": 605,
+            "row_max": 2330,
+            "width": 128,
+            "height": 42
+        },
+        {
+            "id": 23,
+            "content": "聊天",
+            "column_min": 723,
+            "row_min": 2291,
+            "column_max": 790,
+            "row_max": 2327,
+            "width": 67,
+            "height": 36
+        },
+        {
+            "id": 24,
+            "content": "个人中心",
+            "column_min": 911,
+            "row_min": 2291,
+            "column_max": 1034,
+            "row_max": 2330,
+            "width": 123,
+            "height": 39
+        },
+        {
+            "id": 25,
+            "content": "首页",
+            "column_min": 77,
+            "row_min": 2291,
+            "column_max": 142,
+            "row_max": 2327,
+            "width": 65,
+            "height": 36
+        }
+    ]
+}
